@@ -1,0 +1,18 @@
+    html {
+      font-size: 100%; /* This sets 1rem to 16px by default */
+      background-color: black;
+    }
+
+
+header h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font: size 3.125rem; ;
+    color: white;
+    text-align: center;
+}
+
+header a{
+    color: aquamarine;
+    text-align: center;
+}
