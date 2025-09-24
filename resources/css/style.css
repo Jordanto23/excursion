@@ -1,18 +1,21 @@
     html {
       font-size: 100%; /* This sets 1rem to 16px by default */
       background-color: black;
+      text-align: center;
     }
 
 
 header h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
-    font: size 3.125rem; ;
-    color: white;
-    text-align: center;
-}
+    font-size: 3.125rem;
+    color: white;}
 
 header a{
     color: aquamarine;
-    text-align: center;
+}
+
+section .phone-video{
+    display: block;
+    margin:0 auto;
 }
